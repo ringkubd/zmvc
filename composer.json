@@ -1,0 +1,7 @@
+{
+    "name": "zmvc/src",
+    "description": "A simple & light mvc framework",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
